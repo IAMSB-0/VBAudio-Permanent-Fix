@@ -15,7 +15,7 @@ Welcome to the VBAudio Permanent Fix repository! If the persistent issue of mic 
 
 - **Manual Solution:** Our meticulous guide provides a step-by-step journey to temporarily obliterate mic crackling. By meticulously configuring audiodg process settings, you can dramatically enhance audio quality. Please note that this method requires occasional adjustments after system reboots.
 
-- **Permanent Fix:** Introducing an ingenious executable file that orchestrates the entire process seamlessly. With this permanent fix, your audiodg process perpetually enjoys a high-priority status and finely tuned CPU affinity settings. Regardless of system restarts, revel in a seamless and unblemished audio experience at the click of a button.
+- **Permanent Fix:** Introducing an executable file that orchestrates the entire process seamlessly. With this permanent fix, your audiodg process perpetually enjoys a high-priority status and finely tuned CPU affinity settings. Regardless of system restarts, revel in a seamless and unblemished audio experience at the click of a button.
 
 ## 🚀 Getting Started
 
