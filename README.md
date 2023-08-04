@@ -11,7 +11,7 @@ Key Features:
 Get Started:
 
     Clone or Download.
-    Watch our tutorial to set up the fix using Task Scheduler and provided XML file.
+    Watch our tutorial [https://www.youtube.com/watch?v=zkf1T5-Q7z4] to set up the fix using Task Scheduler and provided XML file.
     Implement the Fix and enjoy silky-smooth audio.
 
 Engage & Contribute:
